@@ -1,0 +1,10 @@
+body,h1,h3,h4,h2,h5,h6,ul,ol,p,fieldset,dd,dl,input,textarea,option,hr,td{margin:0;padding:0;}
+
+#navbox{width:100%;height:56px;background:#ffd100;}
+.navTop{margin:0 70px;height:56px;position:relative;text-align:center;}
+.navTop .logo{position:absolute;top:18px;left:0;}
+.navTop .navi{margin:0 auto;display:inline-block;}
+.navTop .navi li{float:left;height:56px;line-height:56px;}
+.navTop .navi .firstLi{font-weight:600;}
+.navTop .navi .more i{display:inline-block;background:url no-repeat left center;width: 20px;height: 56px;margin:0 24px;}
+.navTop .navi .more:hover i{background:url(../images/nav-more-hover.svg) no-repeat left center;}
